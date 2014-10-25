@@ -1,0 +1,9 @@
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\bin\Debug\RelaxMethod.exe.config
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\bin\Debug\RelaxMethod.exe
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\bin\Debug\RelaxMethod.pdb
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\obj\Debug\RelaxMethod.csprojResolveAssemblyReference.cache
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\obj\Debug\RelaxMethod.Form1.resources
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\obj\Debug\RelaxMethod.Properties.Resources.resources
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\obj\Debug\RelaxMethod.csproj.GenerateResource.Cache
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\obj\Debug\RelaxMethod.exe
+c:\users\ok2ju\documents\visual studio 2012\Projects\RelaxMethod\RelaxMethod\obj\Debug\RelaxMethod.pdb
